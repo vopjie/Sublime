@@ -1,0 +1,24 @@
+[{
+  "keys": ["ctrl+shift+alt+a"],
+  "command": "alignment"
+}, {
+  "keys": ["ctrl+shift+enter"],
+  "command": "open_in_browser"
+}, {
+  "keys": ["ctrl+f11"],
+  "command": "tradsim_to_sim"
+}, {
+  "keys": ["ctrl+f12"],
+  "command": "tradsim_to_trad"
+}, {
+  "keys": ["ctrl+shift+c"],
+  "command": "copy_path"
+}, {
+  "keys": ["ctrl+alt+f"],
+  "command": "js_format",
+  "context": [{
+    "key": "selector",
+    "operator": "equal",
+    "operand": "source.js,source.json"
+  }]
+}]

@@ -1,0 +1,48 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Color Highlighter",
+		"Colorcoder",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CSS3",
+		"CSScomb",
+		"CSSLint",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FileDiffs",
+		"HTMLBeautify",
+		"Ionic Framework Extended Autocomplete",
+		"Ionic Framework Snippets",
+		"jQuery",
+		"JS-firebug",
+		"JsFormat",
+		"JSHint Gutter",
+		"LastModifiedIndicator",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PlainTasks",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"SVG-Snippets",
+		"SVN",
+		"Tag",
+		"Terminal",
+		"Theme - Soda",
+		"Tradsim",
+		"TrailingSpaces",
+		"View In Browser",
+		"Web Inspector"
+	]
+}

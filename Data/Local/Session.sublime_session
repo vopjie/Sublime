@@ -1,0 +1,1781 @@
+{
+	"folder_history":
+	[
+		"/F/nodejs/gulpApp"
+	],
+	"last_version": 3083,
+	"last_window_id": 13,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 659.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"un",
+						"underscore-hack-display"
+					],
+					[
+						"ce",
+						"cellspacing	Attr"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"s",
+						"squish-text"
+					],
+					[
+						"e",
+						"ellppsis"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"out",
+						"output_style"
+					],
+					[
+						"c",
+						"class	Attr"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"borde",
+						"border-radius"
+					],
+					[
+						"se",
+						"selected"
+					],
+					[
+						"pos",
+						"pos-f	position: fixed;"
+					],
+					[
+						"page",
+						"page2"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"charse",
+						"charset=utf-8"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"ste",
+						"strSel"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"header",
+						"header_wrap"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"http",
+						"http-equiv	Attr"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"public",
+						"public.less"
+					],
+					[
+						"url",
+						"url()"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"ou",
+						"outline"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"on",
+						"onclick	Attr"
+					],
+					[
+						"b",
+						"bottom"
+					],
+					[
+						"lis",
+						"lis	list-style"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"light",
+						"lighten"
+					],
+					[
+						"fade",
+						"fadeout"
+					],
+					[
+						"dark",
+						"darken"
+					],
+					[
+						"wha",
+						"whale.js"
+					],
+					[
+						"inner",
+						"innerText"
+					],
+					[
+						"step",
+						"step_3"
+					],
+					[
+						"st",
+						"step_2"
+					],
+					[
+						"tr",
+						"transform"
+					],
+					[
+						"p",
+						"pos	position: ${1:relative};"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"time",
+						"time_2"
+					],
+					[
+						"get",
+						"getDate"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"LAB",
+						"LAB.min.js"
+					],
+					[
+						"rgba",
+						"IE rgba()兼容.txt"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "svn",
+				"selected_items":
+				[
+					[
+						"svn",
+						"SVN: Update"
+					],
+					[
+						"svnc",
+						"SVN: Commit…"
+					],
+					[
+						"svnd",
+						"SVN: (File) Delete"
+					],
+					[
+						"svna",
+						"SVN: (File) Add"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Ionic Backdrop"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package (安装插件)"
+					],
+					[
+						"",
+						"Autoprefix CSS"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"install",
+						"Package Control: Install Package (安装插件)"
+					],
+					[
+						"cli",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"d",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"Auto",
+						"Autoprefix CSS"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"C:\\Users\\AppData\\Roaming\\FileZilla\\sitemanager.xml",
+					"C:\\Users\\[USER_NAME]\\AppData\\Roaming\\FileZilla\\sitemanager.xml",
+					"C:\\Users\\AppData\\Roaming\\FileZilla\\sitemanager.xml",
+					"C:\\Users\\[USER_NAME]\\AppData\\Roaming\\FileZilla\\sitemanager.xml"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/svn_project/webjie/1/config.yaml",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/0-login.html",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799896/SVN",
+				"/F/svn_project/webjie/1/11.txt",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799828/SVN",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799737/SVN",
+				"/F/svn_project/webjie/1/111.txt",
+				"/E/Program Files/Sublime Text 3/Data/Packages/SVN/SVN.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/SVN/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/webjie/1/config.yaml",
+				"/C/Users/Administrator/Desktop/webjie/1/111.txt",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799441/SVN",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799347/SVN",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799273/SVN",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799150/SVN",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Administrator/Desktop/SublimeText3-license.html",
+				"/E/Program Files/Sublime Text 3/Data/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/bootstrap-responsive.css",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/bootstrap.css",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/0-index.html",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/JsFormat.sublime-settings",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/login.html",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/stilearn.css",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/js/stilearn-base.js",
+				"/F/nodejs/gulpApp/sass/screen.scss",
+				"/F/nodejs/gulpApp/sass/_mixin.scss",
+				"/F/nodejs/gulpApp/sass/_icons.scss",
+				"/F/nodejs/gulpApp/sass/_retina-sprites.scss",
+				"/F/nodejs/gulpApp/css/screen.css",
+				"/F/nodejs/gulpApp/config.rb",
+				"/F/nodejs/gulpApp/index.html",
+				"/C/Users/Administrator/Desktop/learn-sass-compass-master/sass/_retina-sprites.scss",
+				"/F/nodejs/gulpApp/css/images/logo-sf0c98f98e1.png",
+				"/F/nodejs/gulpApp/sass/_icons.sass",
+				"/C/Users/Administrator/Desktop/README.md",
+				"/F/nodejs/gulpApp/gulpfile.js",
+				"/F/nodejs/gulpApp/package.json",
+				"/F/nodejs/gulpApp/sass/_variables.scss",
+				"/F/nodejs/compassApp/example/README.md",
+				"/F/nodejs/gulpApp/README.md",
+				"/F/nodejs/compassApp/example/css/screen.css",
+				"/F/nodejs/compassApp/example/sass/screen.scss",
+				"/F/nodejs/compassApp/example/config.rb",
+				"/F/nodejs/compassApp/example/sass/_variables.scss",
+				"/F/nodejs/compassApp/example/sass/_mixin.scss",
+				"/F/nodejs/compassApp/example/css/xml/ellipsis.xml",
+				"/F/nodejs/compassApp/example/css/ellipsis.css",
+				"/F/nodejs/compassApp/example/stylesheets/screen.css",
+				"/C/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-normalize-1.5/README.md",
+				"/F/nodejs/compassApp/example/sass/print.scss",
+				"/F/nodejs/compassApp/example/sass/ie.scss",
+				"/F/nodejs/compassApp/example/stylesheets/ie.css",
+				"/F/nodejs/gulpApp/css/sass.scss",
+				"/F/nodejs/gulpApp/build/css/sass.css",
+				"/F/nodejs/gulpApp/build/css/sass.css.map",
+				"/D/云盘同步文件夹/360云盘同步-DELL/AngularJS/phones.json",
+				"/D/云盘同步文件夹/360云盘同步-DELL/AngularJS/js/main.js",
+				"/D/云盘同步文件夹/360云盘同步-DELL/AngularJS/index.html",
+				"/D/云盘同步文件夹/360云盘同步-DELL/AngularJS/phone-list.html",
+				"/D/云盘同步文件夹/360云盘同步-DELL/AngularJS/phone.json",
+				"/F/nodejs/app/README.md",
+				"/D/云盘同步文件夹/360云盘同步-DELL/AngularJS/phone",
+				"/C/Users/Administrator/myApp/www/index.html",
+				"/C/Users/Administrator/myApp/www/js/app.js",
+				"/C/Users/Administrator/myApp/www/js/controllers.js",
+				"/C/Users/Administrator/myApp/www/templates/menu.html",
+				"/C/Users/Administrator/myApp/www/templates/tab-dash.html",
+				"/C/Users/Administrator/myApp/www/templates/tab-film.html",
+				"/C/Users/Administrator/other/other/www/index.html",
+				"/C/Users/Administrator/other/other/www/templates/login.html",
+				"/C/Users/Administrator/other/other/www/templates/menu.html",
+				"/C/Users/Administrator/other/other/www/templates/playlists.html",
+				"/C/Users/Administrator/other/other/www/js/app.js",
+				"/C/Users/Administrator/other/other/www/js/controllers.js",
+				"/C/Users/Administrator/myApp/www/js/services.js",
+				"/C/Users/Administrator/other/other/www/templates/search.html",
+				"/C/Users/Administrator/other/other/www/templates/playlist.html",
+				"/C/Users/Administrator/other/other/www/templates/browse.html",
+				"/C/Users/Administrator/myApp/www/templates/chat-detail.html",
+				"/C/Users/Administrator/myApp/www/templates/tab-setting.html",
+				"/C/Users/Administrator/myApp/www/templates/tabs.html",
+				"/C/Users/Administrator/myApp/www/templates/tab-chats.html",
+				"/C/Users/Administrator/myApp/scss/ionic.app.scss",
+				"/D/VM/OS X 10.10/OS X 10.10.vmx",
+				"/C/Users/Administrator/myApp/ionic.project",
+				"/C/Users/Administrator/myApp/www/templates/tab-account.html",
+				"/C/Users/Administrator/myApp/www/templates/tab-list.html",
+				"/C/Users/Administrator/myApp/www/css/style.css",
+				"/C/Users/Administrator/myApp/package.json",
+				"/C/Users/Administrator/myApp/gulpfile.js",
+				"/F/nodejs/app/gulpfile.js",
+				"/C/Windows/System32/drivers/etc/hosts.ics",
+				"/F/nodejs/app/package.json",
+				"/F/nodejs/app/js/app.js",
+				"/F/nodejs/app/build/js/all.min.js",
+				"/F/nodejs/app/build/js/all.js",
+				"/F/nodejs/node_modules/gulp-rename/README.md",
+				"/F/nodejs/app/build/css/all.css",
+				"/F/nodejs/app/build/css/all.min.css",
+				"/E/Program Files/Sublime Text 3/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/sublime text 插件.html",
+				"/E/Program Files/Sublime Text 3/Data/Packages/CSS Format/CSS Format.sublime-settings",
+				"/C/Users/Administrator/Desktop/sublime text 插件.html.yunpantmp",
+				"/F/nodejs/app/dist/js/all.js",
+				"/F/nodejs/app/dist/js/all.min.js",
+				"/F/nodejs/app/css/style.css",
+				"/F/nodejs/app/dist/css/all.css",
+				"/F/nodejs/app/dist/css/all.min.css",
+				"/F/nodejs/app/dist/all.js",
+				"/F/nodejs/app/dist/all.min.js",
+				"/F/nodejs/app/src/app.js",
+				"/F/nodejs/node_modules/gulp/package.json",
+				"/F/nodejs/app/app.js",
+				"/C/Users/Administrator/Desktop/index.html",
+				"/F/svn_project/vopjie/1/css/style.min.css",
+				"/F/svn_project/vopjie/1/js/about.min.js",
+				"/F/svn_project/vopjie/1/contact.html",
+				"/F/svn_project/vopjie/1/index.html",
+				"/F/svn_project/vopjie/1/about.html",
+				"/F/svn_project/vopjie/1/email/email.php",
+				"/C/Users/Administrator/Desktop/master/jquery-plugin-circliful-master/index.html",
+				"/C/Users/Administrator/Desktop/master/jquery-plugin-circliful-master/css/jquery.circliful.css",
+				"/C/Users/Administrator/Desktop/Chart.js-master/src/Chart.Core.js",
+				"/C/Users/Administrator/Desktop/Chart.js-master/samples/doughnut.color.html",
+				"/C/Users/Administrator/Desktop/Chart.js-master/src/Chart.Doughnut.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"control-mode",
+					"white",
+					"color",
+					"retian-sprite",
+					"navicon",
+					"format",
+					"dist",
+					"61a9dc",
+					"80",
+					"44px",
+					"<!DOCTYPE html>",
+					"\"\"",
+					"#",
+					"海关",
+					"#4",
+					"#3",
+					"#2",
+					"radius4",
+					"#wrapper",
+					"wrapper",
+					"href=\"HelloBaby/",
+					" type=\"text/javascript\"",
+					"goods.php?id=12",
+					"goods.php?id=10",
+					"goods.php?id=4",
+					"src=\"HelloBaby/images/",
+					"href=\"HelloBaby/css",
+					"src=\"HelloBaby/js",
+					"辰鑫",
+					"网址",
+					".js",
+					"favmonth",
+					" •",
+					"</i>",
+					"<i>",
+					"value",
+					"<form",
+					"form",
+					"role=\"main\"",
+					"data-role=\"main\"",
+					"data-role=\"content\"",
+					"data-role=\"page\"",
+					"b.html",
+					"A.html",
+					"B.html",
+					"建辉",
+					"苏州建辉",
+					"联系",
+					"setHomepage",
+					"rotateSlideOut",
+					"slide",
+					"rotateRoomLeftOut",
+					"rotateCubeLeftOut",
+					"moveToLeft",
+					"pay_cash_left_btn",
+					"css/",
+					"../scri../css",
+					"js/",
+					"<img src=\"image",
+					"<img src=\"images",
+					"css/",
+					"pt/",
+					"css/",
+					"pt/",
+					"css/",
+					"pt/",
+					"css/",
+					"js/",
+					"<img src=\"",
+					"js/",
+					"index.",
+					"js/",
+					"<img src=\"css",
+					"js/",
+					"index.html",
+					"a href",
+					"js/",
+					"<img src=\"",
+					"<img src=\"images",
+					"<img src=\"",
+					"common.css",
+					"<img src=\"",
+					"js/",
+					"a href",
+					"script/",
+					"html/css",
+					"js/",
+					"css/",
+					"js/",
+					"\"html/",
+					"href=\"",
+					"products.html",
+					"images/",
+					"js/",
+					" id=\"basic-addon1\"",
+					"da-content",
+					"node",
+					"form",
+					"bg",
+					"3_back.png",
+					"translate3d",
+					"blue-slide",
+					"switch",
+					"outline",
+					"fullPage-nav",
+					"Matrix2D();",
+					"textCountProgress",
+					"blueOverlayRadiusWithPercentBar",
+					"?v=122",
+					"progressjs",
+					"progressjs-container",
+					"getBoundingClientRect",
+					"\\",
+					"lable",
+					"JSHint",
+					"lable",
+					"resize",
+					"resize: vertical;",
+					"内布拉斯加",
+					"Examples",
+					"easeOutSine"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"build",
+					"00a888",
+					"44",
+					"80",
+					"<!DOCTYPE html>",
+					"#1",
+					"radius2",
+					"href=\"",
+					"",
+					"#",
+					"src=\"images/",
+					"href=\"css",
+					"src=\"js",
+					"晨鑫",
+					"",
+					"val()",
+					"index.html",
+					"page2.html",
+					"a.html",
+					"b.html",
+					"辰鑫",
+					"../css/",
+					"../script",
+					"../script/",
+					"../script",
+					"<img src=\"../image",
+					"<img src=\"image",
+					"../css/",
+					"../script/",
+					"<img src=\"../css",
+					"../script/",
+					"../script",
+					"<img src=\"../image",
+					"<img src=\"../",
+					"../script/",
+					"../",
+					"css",
+					"css/",
+					"../script/",
+					"../css/",
+					"script/",
+					"script",
+					"href=\"html/",
+					"html/products.html",
+					"image/",
+					"script/",
+					"",
+					"3_back.jpg",
+					"more",
+					"fp-nav",
+					"menu",
+					"",
+					"\\\\",
+					"-->\n",
+					"高亮所有变量"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 229.0
+			},
+			"output.css3_validator":
+			{
+				"height": 100.0
+			},
+			"output.exec":
+			{
+				"height": 246.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Administrator\\Desktop\\less.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 224.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 636.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"lis",
+						"lis-n	list-style: none;"
+					],
+					[
+						"get",
+						"get	Get Elements"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"un",
+						"underscore-hack-display"
+					],
+					[
+						"ce",
+						"cellspacing	Attr"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"s",
+						"squish-text"
+					],
+					[
+						"e",
+						"ellppsis"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"out",
+						"output_style"
+					],
+					[
+						"c",
+						"class	Attr"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"borde",
+						"border-radius"
+					],
+					[
+						"se",
+						"selected"
+					],
+					[
+						"pos",
+						"pos-f	position: fixed;"
+					],
+					[
+						"page",
+						"page2"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"charse",
+						"charset=utf-8"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"ste",
+						"strSel"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"header",
+						"header_wrap"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"http",
+						"http-equiv	Attr"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"public",
+						"public.less"
+					],
+					[
+						"url",
+						"url()"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"ou",
+						"outline"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"on",
+						"onclick	Attr"
+					],
+					[
+						"b",
+						"bottom"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"light",
+						"lighten"
+					],
+					[
+						"fade",
+						"fadeout"
+					],
+					[
+						"dark",
+						"darken"
+					],
+					[
+						"wha",
+						"whale.js"
+					],
+					[
+						"inner",
+						"innerText"
+					],
+					[
+						"step",
+						"step_3"
+					],
+					[
+						"st",
+						"step_2"
+					],
+					[
+						"tr",
+						"transform"
+					],
+					[
+						"p",
+						"pos	position: ${1:relative};"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"time",
+						"time_2"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"LAB",
+						"LAB.min.js"
+					],
+					[
+						"rgba",
+						"IE rgba()兼容.txt"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Document</title>\n</head>\n<body>\n  <p c></p>\n</body>\n</html>",
+					"settings":
+					{
+						"buffer_size": 133,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "inst",
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remve",
+						"Package Control: Remove Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Set Syntax: Web Inspector (Stack)"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"mall",
+						"Sublimall: Restore backup"
+					],
+					[
+						"sublimall",
+						"Sublimall: Retrieve"
+					],
+					[
+						"c",
+						"Color Picker"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Emmet: Remove Tag"
+					],
+					[
+						"svn",
+						"TortoiseSVN: Commit"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript + firebug"
+					],
+					[
+						"svnc",
+						"SVN: Commit…"
+					],
+					[
+						"svnd",
+						"SVN: (File) Delete"
+					],
+					[
+						"svna",
+						"SVN: (File) Add"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Ionic Backdrop"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package (安装插件)"
+					],
+					[
+						"",
+						"Autoprefix CSS"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"cli",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"d",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"Auto",
+						"Autoprefix CSS"
+					]
+				],
+				"width": 500.0
+			},
+			"console":
+			{
+				"height": 614.0,
+				"history":
+				[
+					"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"C:\\Users\\AppData\\Roaming\\FileZilla\\sitemanager.xml",
+					"C:\\Users\\[USER_NAME]\\AppData\\Roaming\\FileZilla\\sitemanager.xml",
+					"C:\\Users\\AppData\\Roaming\\FileZilla\\sitemanager.xml",
+					"C:\\Users\\[USER_NAME]\\AppData\\Roaming\\FileZilla\\sitemanager.xml"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/GitHub/SublimeText/Data/Installed Packages/Default.sublime-package",
+				"/F/GitHub/Sublime/Data/Installed Packages/Emmet.sublime-package",
+				"/F/Sublime Text 3/Data/Packages/User/CSSLint.sublime-settings",
+				"/F/Sublime Text 3/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/F/Sublime Text 3/Data/Packages/Tag/Tag Package.sublime-settings",
+				"/C/Users/Administrator/Desktop/1.html",
+				"/C/Users/Administrator/Desktop/a.sass",
+				"/F/GitHub/angular-phonecat/package.json",
+				"/F/GitHub/APP/app/farmework/bootstrap/css/bootstrap.min.css",
+				"/F/GitHub/angular-phonecat/app/bower_components/bootstrap/js/collapse.js",
+				"/F/GitHub/angular-phonecat/app/bower_components/angular/angular.min.js",
+				"/F/GitHub/angular-phonecat/.bowerrc",
+				"/F/GitHub/angular-phonecat/bower.json",
+				"/E/迅雷下载/angular.js-master/src/Angular.js",
+				"/E/迅雷下载/angular.js-master/src/ngRoute/route.js",
+				"/F/GitHub/APP/gulpfile.js",
+				"/F/GitHub/APP/app/sass/_icons.scss",
+				"/F/GitHub/APP/app/sass/style.scss",
+				"/F/GitHub/APP/.gitignore",
+				"/F/GitHub/APP/app/index.html",
+				"/F/GitHub/APP/app/css/style.css",
+				"/F/GitHub/APP/package.json",
+				"/F/GitHub/APP/config.rb",
+				"/F/GitHub/APP/npm-debug.log",
+				"/F/GitHub/APP/.editorconfig",
+				"/F/GitHub/APP/README.md",
+				"/F/GitHub/APP/.jshintrc",
+				"/F/GitHub/APP/.gitattributes",
+				"/C/Users/Administrator/Documents/GitHub/APP/package.json",
+				"/C/Users/Administrator/Documents/GitHub/APP/gulpfile.js",
+				"/C/Users/Administrator/Documents/GitHub/public.less/README.md",
+				"/C/Users/Administrator/Documents/GitHub/APP/README.md",
+				"/C/Users/Administrator/Desktop/index.html",
+				"/C/Users/Administrator/Desktop/emmet 快捷键",
+				"/C/Users/Administrator/Desktop/快捷键.html",
+				"/C/Users/Administrator/Desktop/sublime text 插件.html",
+				"/C/Users/Administrator/Desktop/1.css",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/ColorHighlighter.sublime-settings",
+				"/F/nodejs/gulpApp/js/app.js",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/SublimeMagick.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/SublimeMagick/SublimeMagick.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/ColorPicker.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/Color Highlighter/Default.sublime-keymap",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/Program Files/Sublime Text 3/Data/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/F/nodejs/gulpApp/.editorconfig",
+				"/F/nodejs/gulpApp/.editorconfig.文件",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/swi.sublime-settings",
+				"/F/nodejs/gulpApp/.jshintrc",
+				"/C/Users/Administrator/Desktop/js.js",
+				"/E/Program Files/Sublime Text 3/Data/Packages/JSLint/Default.sublime-keymap",
+				"/E/Program Files/Sublime Text 3/Data/Packages/Web Inspector/Default (Windows).sublime-keymap",
+				"/E/Program Files/Sublime Text 3/Data/Packages/Web Inspector/swi.sublime-settings",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/js/holder.js",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/PlainTasks/messages/Tutorial.todo",
+				"/E/Program Files/Sublime Text 3/Data/Packages/DocBlockr/README.md",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/Base File.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/DocBlockr/Base File.sublime-settings",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/example.md",
+				"/C/Users/Administrator/Desktop/1",
+				"/C/Users/Administrator/Desktop/HelloWorld.java",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/Java.sublime-build",
+				"/E/Program Files/Sublime Text 3/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/ConvertToUTF8.sublime-settings",
+				"/C/Users/Administrator/Desktop/java.java",
+				"/C/Program Files/Java/jdk1.7.0_75/bin/runJava.bat",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/Node.sublime-build",
+				"/E/Program Files/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Packages/Java.sublime-package",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/java.sublime-build",
+				"/E/Program Files/Sublime Text 3/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/E/Program Files/Sublime Text 3/Data/Packages/User/JsFormat.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/F/svn_project/webjie/1/config.yaml",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/0-login.html",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799896/SVN",
+				"/F/svn_project/webjie/1/11.txt",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799828/SVN",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799737/SVN",
+				"/F/svn_project/webjie/1/111.txt",
+				"/E/Program Files/Sublime Text 3/Data/Packages/SVN/SVN.sublime-settings",
+				"/E/Program Files/Sublime Text 3/Data/Packages/SVN/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/webjie/1/config.yaml",
+				"/C/Users/Administrator/Desktop/webjie/1/111.txt",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799441/SVN",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799347/SVN",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799273/SVN",
+				"/c/users/admini~1/appdata/local/temp/sublime-svn-1432799150/SVN",
+				"/C/Users/Administrator/Desktop/SublimeText3-license.html",
+				"/E/Program Files/Sublime Text 3/Data/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/bootstrap-responsive.css",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/bootstrap.css",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/0-index.html",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/login.html",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/stilearn.css",
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/js/stilearn-base.js",
+				"/F/nodejs/gulpApp/sass/screen.scss",
+				"/F/nodejs/gulpApp/sass/_mixin.scss",
+				"/F/nodejs/gulpApp/sass/_icons.scss",
+				"/F/nodejs/gulpApp/sass/_retina-sprites.scss",
+				"/F/nodejs/gulpApp/css/screen.css",
+				"/F/nodejs/gulpApp/config.rb",
+				"/F/nodejs/gulpApp/index.html",
+				"/C/Users/Administrator/Desktop/learn-sass-compass-master/sass/_retina-sprites.scss",
+				"/F/nodejs/gulpApp/css/images/logo-sf0c98f98e1.png",
+				"/F/nodejs/gulpApp/sass/_icons.sass",
+				"/C/Users/Administrator/Desktop/README.md",
+				"/F/nodejs/gulpApp/gulpfile.js",
+				"/F/nodejs/gulpApp/package.json",
+				"/F/nodejs/gulpApp/sass/_variables.scss",
+				"/F/nodejs/compassApp/example/README.md",
+				"/F/nodejs/gulpApp/README.md",
+				"/F/nodejs/compassApp/example/css/screen.css",
+				"/F/nodejs/compassApp/example/sass/screen.scss",
+				"/F/nodejs/compassApp/example/config.rb",
+				"/F/nodejs/compassApp/example/sass/_variables.scss",
+				"/F/nodejs/compassApp/example/sass/_mixin.scss",
+				"/F/nodejs/compassApp/example/css/xml/ellipsis.xml",
+				"/F/nodejs/compassApp/example/css/ellipsis.css",
+				"/F/nodejs/compassApp/example/stylesheets/screen.css",
+				"/C/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-normalize-1.5/README.md",
+				"/F/nodejs/compassApp/example/sass/print.scss",
+				"/F/nodejs/compassApp/example/sass/ie.scss",
+				"/F/nodejs/compassApp/example/stylesheets/ie.css"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"logo",
+					"##",
+					"imageminJpegtran",
+					"tr",
+					");\n",
+					"console",
+					");\n",
+					"function",
+					"\\",
+					"becomes",
+					"jpg",
+					"\");\n",
+					"file_path",
+					"control-mode",
+					"white",
+					"color",
+					"retian-sprite",
+					"navicon",
+					"format",
+					"dist",
+					"61a9dc",
+					"80",
+					"44px",
+					"<!DOCTYPE html>",
+					"\"\"",
+					"#",
+					"海关",
+					"#4",
+					"#3",
+					"#2",
+					"radius4",
+					"#wrapper",
+					"wrapper",
+					"href=\"HelloBaby/",
+					" type=\"text/javascript\"",
+					"goods.php?id=12",
+					"goods.php?id=10",
+					"goods.php?id=4",
+					"src=\"HelloBaby/images/",
+					"href=\"HelloBaby/css",
+					"src=\"HelloBaby/js",
+					"辰鑫",
+					"网址",
+					".js",
+					"favmonth",
+					" •",
+					"</i>",
+					"<i>",
+					"value",
+					"<form",
+					"form",
+					"role=\"main\"",
+					"data-role=\"main\"",
+					"data-role=\"content\"",
+					"data-role=\"page\"",
+					"b.html",
+					"A.html",
+					"B.html",
+					"建辉",
+					"苏州建辉",
+					"联系",
+					"setHomepage",
+					"rotateSlideOut",
+					"slide",
+					"rotateRoomLeftOut",
+					"rotateCubeLeftOut",
+					"moveToLeft",
+					"pay_cash_left_btn",
+					"css/",
+					"../scri../css",
+					"js/",
+					"<img src=\"image",
+					"<img src=\"images",
+					"css/",
+					"pt/",
+					"css/",
+					"pt/",
+					"css/",
+					"pt/",
+					"css/",
+					"js/",
+					"<img src=\"",
+					"js/",
+					"index.",
+					"js/",
+					"<img src=\"css",
+					"js/",
+					"index.html",
+					"a href",
+					"js/",
+					"<img src=\"",
+					"<img src=\"images",
+					"<img src=\"",
+					"common.css",
+					"<img src=\"",
+					"js/",
+					"a href",
+					"script/",
+					"html/css",
+					"js/",
+					"css/",
+					"js/",
+					"\"html/",
+					"href=\"",
+					"products.html",
+					"images/",
+					"js/",
+					" id=\"basic-addon1\"",
+					"da-content",
+					"node",
+					"form",
+					"bg",
+					"3_back.png",
+					"translate3d",
+					"blue-slide",
+					"switch",
+					"outline",
+					"fullPage-nav",
+					"Matrix2D();",
+					"textCountProgress",
+					"blueOverlayRadiusWithPercentBar",
+					"?v=122",
+					"progressjs",
+					"progressjs-container",
+					"getBoundingClientRect",
+					"\\",
+					"lable",
+					"JSHint"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"###",
+					"ul",
+					"\\\\",
+					"build",
+					"00a888",
+					"44",
+					"80",
+					"<!DOCTYPE html>",
+					"#1",
+					"radius2",
+					"href=\"",
+					"",
+					"#",
+					"src=\"images/",
+					"href=\"css",
+					"src=\"js",
+					"晨鑫",
+					"",
+					"val()",
+					"index.html",
+					"page2.html",
+					"a.html",
+					"b.html",
+					"辰鑫",
+					"../css/",
+					"../script",
+					"../script/",
+					"../script",
+					"<img src=\"../image",
+					"<img src=\"image",
+					"../css/",
+					"../script/",
+					"<img src=\"../css",
+					"../script/",
+					"../script",
+					"<img src=\"../image",
+					"<img src=\"../",
+					"../script/",
+					"../",
+					"css",
+					"css/",
+					"../script/",
+					"../css/",
+					"script/",
+					"script",
+					"href=\"html/",
+					"html/products.html",
+					"image/",
+					"script/",
+					"",
+					"3_back.jpg",
+					"more",
+					"fp-nav",
+					"menu",
+					"",
+					"\\\\",
+					"-->\n",
+					"高亮所有变量"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										112,
+										112
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL) (Colorcoded) (Colorcoded) (Colorcoded).tmTheme",
+									"colorcode": true,
+									"is_xml": false,
+									"last_modified_indicator": true,
+									"last_modified_indicator_file_save_clear": false,
+									"last_modified_indicator_multiline": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 229.0
+			},
+			"output.css3_validator":
+			{
+				"height": 100.0
+			},
+			"output.exec":
+			{
+				"height": 48.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Node.sublime-build",
+			"position": "0,0,1,-1,-1,-1,-1,901,591,133,1243",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Administrator\\Desktop\\less.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 224.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
