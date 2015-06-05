@@ -798,6 +798,30 @@
 				"selected_items":
 				[
 					[
+						"ng-c",
+						"ng-click	AngularJS"
+					],
+					[
+						"ng",
+						"ng-checked	AngularJS"
+					],
+					[
+						"a",
+						"ng-app	AngularJS"
+					],
+					[
+						"bs3-i",
+						"bs3-input:date	bs3-input-date"
+					],
+					[
+						"bs",
+						"bs3-carousel	bs3-carousel"
+					],
+					[
+						"bs3",
+						"bs3-icon	bs3-icon"
+					],
+					[
 						"text",
 						"text-align"
 					],
@@ -1030,10 +1054,6 @@
 						"position"
 					],
 					[
-						"a",
-						"absolute"
-					],
-					[
 						"wid",
 						"width"
 					],
@@ -1065,14 +1085,6 @@
 			},
 			"buffers":
 			[
-				{
-					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Document</title>\n</head>\n<body>\n  <p c></p>\n</body>\n</html>",
-					"settings":
-					{
-						"buffer_size": 133,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -1082,9 +1094,61 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "inst",
+				"last_filter": "lis",
 				"selected_items":
 				[
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"ang",
+						"AngularJS: Toggle - Disable Built-in Directive Completions"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"boot",
+						"Goto Bootstrap: Modals"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
 					[
 						"inst",
 						"Package Control: Install Package"
@@ -1098,20 +1162,8 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"ins",
 						"Set Syntax: Web Inspector (Stack)"
-					],
-					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"mall",
@@ -1124,10 +1176,6 @@
 					[
 						"c",
 						"Color Picker"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"rem",
@@ -1162,14 +1210,6 @@
 						"SVN: (File) Add"
 					],
 					[
-						"Snippet: ",
-						"Snippet: Ionic Backdrop"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
 						"package",
 						"Package Control: Remove Package"
 					],
@@ -1198,7 +1238,7 @@
 						"Autoprefix CSS"
 					]
 				],
-				"width": 500.0
+				"width": 512.0
 			},
 			"console":
 			{
@@ -1223,12 +1263,14 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Administrator/Desktop/1.html",
+				"/F/GitHub/Sublime/Data/Packages/User/Preferences.sublime-settings",
+				"/F/GitHub/Sublime/Data/Packages/Default/Preferences.sublime-settings",
 				"/F/GitHub/SublimeText/Data/Installed Packages/Default.sublime-package",
 				"/F/GitHub/Sublime/Data/Installed Packages/Emmet.sublime-package",
 				"/F/Sublime Text 3/Data/Packages/User/CSSLint.sublime-settings",
 				"/F/Sublime Text 3/Data/Packages/Emmet/Emmet.sublime-settings",
 				"/F/Sublime Text 3/Data/Packages/Tag/Tag Package.sublime-settings",
-				"/C/Users/Administrator/Desktop/1.html",
 				"/C/Users/Administrator/Desktop/a.sass",
 				"/F/GitHub/angular-phonecat/package.json",
 				"/F/GitHub/APP/app/farmework/bootstrap/css/bootstrap.min.css",
@@ -1348,9 +1390,7 @@
 				"/F/nodejs/compassApp/example/css/ellipsis.css",
 				"/F/nodejs/compassApp/example/stylesheets/screen.css",
 				"/C/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-normalize-1.5/README.md",
-				"/F/nodejs/compassApp/example/sass/print.scss",
-				"/F/nodejs/compassApp/example/sass/ie.scss",
-				"/F/nodejs/compassApp/example/stylesheets/ie.css"
+				"/F/nodejs/compassApp/example/sass/print.scss"
 			],
 			"find":
 			{
@@ -1571,101 +1611,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 133,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										112,
-										112
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL) (Colorcoded) (Colorcoded) (Colorcoded).tmTheme",
-									"colorcode": true,
-									"is_xml": false,
-									"last_modified_indicator": true,
-									"last_modified_indicator_file_save_clear": false,
-									"last_modified_indicator_multiline": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -1717,7 +1664,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/Node.sublime-build",
-			"position": "0,0,1,-1,-1,-1,-1,901,591,133,1243",
+			"position": "0,2,3,-1,-1,-1,-1,901,591,133,1243",
 			"project": "",
 			"replace":
 			{

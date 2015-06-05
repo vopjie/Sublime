@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Clipboard Manager",
@@ -31,6 +32,7 @@
 		"MarkdownEditing",
 		"Package Control",
 		"PlainTasks",
+		"Require Helper",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
