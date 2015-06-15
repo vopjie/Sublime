@@ -21,4 +21,7 @@
     "operator": "equal",
     "operand": "source.js,source.json"
   }]
+}, {
+  "keys": ["ctrl+k"],
+  "command": "toggle_side_bar"
 }]
