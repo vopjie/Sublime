@@ -1089,7 +1089,7 @@
 					"file": "/F/GitHub/examples/app/hello.html",
 					"settings":
 					{
-						"buffer_size": 1703,
+						"buffer_size": 1686,
 						"line_ending": "Windows"
 					}
 				}
@@ -1101,7 +1101,7 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 380.0,
+				"height": 173.0,
 				"last_filter": "install",
 				"selected_items":
 				[
@@ -1110,8 +1110,36 @@
 						"Package Control: Install Package"
 					],
 					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"DocBlockr",
+						"DocBlockr: Reparse comment block"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
 						"dis",
 						"Package Control: Disable Package"
+					],
+					[
+						"ma",
+						"MarkdownEditing: Markdown Lint"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
 					],
 					[
 						"lis",
@@ -1146,10 +1174,6 @@
 						"Package Control: Enable Package"
 					],
 					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
 						"enable",
 						"Package Control: Enable Package"
 					],
@@ -1164,10 +1188,6 @@
 					[
 						"remve",
 						"Package Control: Remove Package"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"ins",
@@ -1196,10 +1216,6 @@
 					[
 						"pac",
 						"Package Control: Remove Package"
-					],
-					[
-						"ma",
-						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"js",
@@ -1271,12 +1287,36 @@
 			},
 			"file_history":
 			[
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/ie-opacity.sublime-snippet",
+				"/C/Users/Administrator/Desktop/IE条件注释.html",
+				"/C/Users/Administrator/Desktop/IE10 条件注释.html",
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/ie.sublime-snippet",
+				"/C/Users/Administrator/Desktop/truck/lcdweb/index.html",
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/font-awesome.sublime-snippet",
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/normalize.sublime-snippet",
+				"/F/GitHub/Sublime/Data/Packages/SublimeTmpl/templates/html.tmpl",
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/viewport.sublime-snippet",
+				"/C/Users/Administrator/Desktop/truck/wxweb/bidding-rule.html",
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/bootjs.sublime-snippet",
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/jquery.sublime-snippet",
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/bootcss.sublime-snippet",
+				"/F/GitHub/Sublime/Data/Packages/User/snippets/note.sublime-snippet",
+				"/F/GitHub/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/F/GitHub/Sublime/Data/Packages/SublimeTmpl/Main.sublime-menu",
+				"/C/Users/Administrator/Desktop/Default (Windows).sublime-keymap",
+				"/F/GitHub/Sublime/Data/Packages/User/Side Bar.sublime-settings",
+				"/F/GitHub/Sublime/Data/Packages/User/Markdown.sublime-settings",
+				"/F/GitHub/Sublime/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/Administrator/Desktop/Preferences.sublime-settings",
+				"/F/GitHub/Sublime/Data/Packages/User/Preferences.sublime-settings",
+				"/F/GitHub/Sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/F/GitHub/Sublime/Data/Packages/View In Browser/View In Browser.sublime-settings",
+				"/F/GitHub/Sublime/Data/Packages/User/View In Browser.sublime-settings",
 				"/F/GitHub/examples/index.html",
 				"/F/GitHub/Sublime/Data/Packages/JSHint Gutter/JSHint.sublime-settings",
 				"/F/alading/op/CMS/src/main/webapp/index.html",
 				"/F/alading/op/CMS/src/main/README.md",
 				"/C/Users/Administrator/Desktop/1.html",
-				"/F/GitHub/Sublime/Data/Packages/User/Preferences.sublime-settings",
 				"/F/GitHub/Sublime/Data/Packages/Default/Preferences.sublime-settings",
 				"/F/GitHub/SublimeText/Data/Installed Packages/Default.sublime-package",
 				"/F/GitHub/Sublime/Data/Installed Packages/Emmet.sublime-package",
@@ -1374,31 +1414,7 @@
 				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/bootstrap-responsive.css",
 				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/bootstrap.css",
 				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/0-index.html",
-				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/login.html",
-				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/css/stilearn.css",
-				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/js/stilearn-base.js",
-				"/F/nodejs/gulpApp/sass/screen.scss",
-				"/F/nodejs/gulpApp/sass/_mixin.scss",
-				"/F/nodejs/gulpApp/sass/_icons.scss",
-				"/F/nodejs/gulpApp/sass/_retina-sprites.scss",
-				"/F/nodejs/gulpApp/css/screen.css",
-				"/F/nodejs/gulpApp/config.rb",
-				"/F/nodejs/gulpApp/index.html",
-				"/C/Users/Administrator/Desktop/learn-sass-compass-master/sass/_retina-sprites.scss",
-				"/F/nodejs/gulpApp/css/images/logo-sf0c98f98e1.png",
-				"/F/nodejs/gulpApp/sass/_icons.sass",
-				"/C/Users/Administrator/Desktop/README.md",
-				"/F/nodejs/gulpApp/gulpfile.js",
-				"/F/nodejs/gulpApp/package.json",
-				"/F/nodejs/gulpApp/sass/_variables.scss",
-				"/F/nodejs/compassApp/example/README.md",
-				"/F/nodejs/gulpApp/README.md",
-				"/F/nodejs/compassApp/example/css/screen.css",
-				"/F/nodejs/compassApp/example/sass/screen.scss",
-				"/F/nodejs/compassApp/example/config.rb",
-				"/F/nodejs/compassApp/example/sass/_variables.scss",
-				"/F/nodejs/compassApp/example/sass/_mixin.scss",
-				"/F/nodejs/compassApp/example/css/xml/ellipsis.xml"
+				"/D/云盘同步文件夹/360云盘同步-DELL/CMS/login.html"
 			],
 			"find":
 			{
@@ -1416,6 +1432,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\\",
 					"logo",
 					"##",
 					"imageminJpegtran",
@@ -1542,8 +1559,7 @@
 					"progressjs-container",
 					"getBoundingClientRect",
 					"\\",
-					"lable",
-					"JSHint"
+					"lable"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1551,6 +1567,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/",
 					"###",
 					"ul",
 					"\\\\",
@@ -1628,15 +1645,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1703,
+								"buffer_size": 1686,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										166,
-										166
+										141,
+										141
 									]
 								],
 								"settings":
@@ -1644,61 +1661,61 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
 									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL) (Colorcoded) (Colorcoded) (Colorcoded).tmTheme",
 									"colorcode": true,
@@ -1769,7 +1786,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/Node.sublime-build",
-			"position": "0,2,3,-1,-1,-1,-1,901,591,133,1243",
+			"position": "0,2,3,-32000,-32000,-1,-1,756,312,-12,964",
 			"project": "",
 			"replace":
 			{

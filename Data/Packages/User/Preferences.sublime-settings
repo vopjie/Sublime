@@ -15,12 +15,15 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Markdown Preview",
-		"JSHint Gutter",
-		"Markdown",
+		"Vintage",
 		"SVG-Snippets",
+		"JSHint Gutter",
 		"MarkdownEditing",
-		"Vintage"
+		"AngularJS",
+		"SVN",
+		"Ionic Framework Extended Autocomplete",
+		"Ionic Framework Snippets",
+		"Markdown"
 	],
 	"original_color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL) (Colorcoded) (Colorcoded).tmTheme",
 	"tab_size": 4,

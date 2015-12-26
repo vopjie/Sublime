@@ -1,27 +1,82 @@
 [{
-  "keys": ["ctrl+shift+alt+a"],
-  "command": "alignment"
-}, {
-  "keys": ["ctrl+shift+enter"],
-  "command": "open_in_browser"
-}, {
-  "keys": ["ctrl+f11"],
-  "command": "tradsim_to_sim"
-}, {
-  "keys": ["ctrl+f12"],
-  "command": "tradsim_to_trad"
-}, {
-  "keys": ["ctrl+shift+c"],
-  "command": "copy_path"
-}, {
-  "keys": ["ctrl+alt+f"],
-  "command": "js_format",
-  "context": [{
-    "key": "selector",
-    "operator": "equal",
-    "operand": "source.js,source.json"
-  }]
-}, {
-  "keys": ["ctrl+k"],
-  "command": "toggle_side_bar"
-}]
+        "keys": ["ctrl+shift+alt+a"],
+        "command": "alignment"
+    }, {
+        "keys": ["ctrl+shift+enter"],
+        "command": "open_in_browser"
+    }, {
+        "keys": ["ctrl+f11"],
+        "command": "tradsim_to_sim"
+    }, {
+        "keys": ["ctrl+f12"],
+        "command": "tradsim_to_trad"
+    }, {
+        "keys": ["ctrl+shift+c"],
+        "command": "copy_path"
+    }, {
+        "keys": ["ctrl+alt+f"],
+        "command": "js_format",
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.js,source.json"
+        }]
+    }, {
+        "keys": ["ctrl+k"],
+        "command": "toggle_side_bar"
+    }, {
+        "keys": ["ctrl+alt+f"],
+        "command": "js_format",
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.js,source.json"
+        }]
+    },
+    {
+        "keys": ["f12"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:/Users/Administrator/AppData/Local/Google/Chrome/Application/chrome.exe", //谷歌路径
+            "extensions": ".*" // 可以打开任何类型的文件
+        }
+    }, //谷歌；
+    // {
+    //     "keys": ["alt+f12"],
+    //     "command": "side_bar_open_in_browser",
+    //     "args": {
+    //         "paths": [],
+    //         "type": "testing"
+    //     }
+    // },
+    // 为localhost环境，默认D:/wamp/www/对应http://localhost/
+    // 请在边栏的文件上右键->项目->编辑项目预览地址，修改测试及生产环境地址
+    {
+        "keys": ["f11"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "D:/Program Files/FireFox/firefox.exe", //火狐路径
+            "extensions": ".*" // 可以打开任何类型的文件
+        }
+    }, //火狐
+    {
+        "keys": ["f10"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:/Program Files/Internet Explorer/iexplore.exe", //IE路径
+            "extensions": ".*" // 可以打开任何类型的文件
+        }
+    }, //在IE浏览器打开
+    {
+        "keys": ["f9"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "D:/Program Files/360se6/Application/360se.exe", //360路径
+            "extensions": ".*" // 可以打开任何类型的文件
+        }
+    } //在360浏览器打开
+]
