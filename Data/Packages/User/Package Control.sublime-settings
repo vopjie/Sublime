@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"Autoprefixer",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Clipboard Manager",
