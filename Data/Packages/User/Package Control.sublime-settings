@@ -5,6 +5,8 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"AutoAligner",
+		"AutoFileName",
 		"Autoprefixer",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",

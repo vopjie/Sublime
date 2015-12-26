@@ -1086,10 +1086,7 @@
 			"buffers":
 			[
 				{
-					"contents": "<!doctype html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<title>Hello Sea.js</title>\n<link rel=\"stylesheet\" href=\"../static/hello/src/style.css\">\n<style>\n</style>\n</head>\n<body>\n<div id=\"container\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKb32QfE.png\" width=\"44\" height=\"44\" alt=\"H\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKb2rJHI.png\" width=\"44\" height=\"44\" alt=\"e\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKeZrUpg.png\" width=\"44\" height=\"44\" alt=\"l\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqM4u3Ejk.png\" width=\"44\" height=\"44\" alt=\"l\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKoKV2Sa.png\" width=\"44\" height=\"44\" alt=\"o\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKb4JU4K.png\" width=\"44\" height=\"44\" alt=\",\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKojFDLY.png\" width=\"44\" height=\"44\" alt=\"S\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKb2sBO8.png\" width=\"44\" height=\"44\" alt=\"e\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKb2LmXk.png\" width=\"44\" height=\"44\" alt=\"a\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKb1jcWC.png\" width=\"44\" height=\"44\" alt=\"J\">\n  <img src=\"https://i.alipayobjects.com/e/201211/1cqKojb72y.png\" width=\"44\" height=\"44\" alt=\"S\">\n</div>\n\n<script src=\"../sea-modules/seajs/seajs/2.2.0/sea.js\"></script>\n<script>\n\n  // Set configuration\n  seajs.config({\n    base: \"../sea-modules/\",\n    alias: {\n      \"jquery\": \"jquery/jquery/1.10.1/jquery.js\"\n    }\n  });\n\n  // For development\n  if (location.href.indexOf(\"?dev\") > 0) {\n    seajs.use(\"../static/hello/src/main\");\n  }\n  // For production\n  else {\n    seajs.use(\"examples/hello/1.0.0/main\");\n  }\n</script>\n\n</body>\n</html>\n",
 					"file": "/F/GitHub/examples/app/hello.html",
-					"file_size": 1731,
-					"file_write_time": 130955878621705251,
 					"settings":
 					{
 						"buffer_size": 1703,
@@ -1104,13 +1101,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 311.0,
+				"height": 380.0,
 				"last_filter": "install",
 				"selected_items":
 				[
 					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
 					],
 					[
 						"lis",
@@ -1131,10 +1132,6 @@
 					[
 						"Snippet: ",
 						"Snippet: html"
-					],
-					[
-						"dis",
-						"Package Control: Disable Package"
 					],
 					[
 						"list",
@@ -1638,8 +1635,8 @@
 								"selection":
 								[
 									[
-										1366,
-										1366
+										166,
+										166
 									]
 								],
 								"settings":
@@ -1647,61 +1644,61 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_double_quote_content"
 									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL) (Colorcoded) (Colorcoded) (Colorcoded).tmTheme",
 									"colorcode": true,
