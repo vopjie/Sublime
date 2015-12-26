@@ -1,0 +1,40 @@
+<snippet>
+    <content><![CDATA[
+<!--[if IE]>只有IE6,7,8,9浏览器显示(IE10标准模式不支持)<![endif]-->
+<!--[if !IE]>只有非IE浏览器显示(不包括IE10)<![endif]-->
+<!--[if IE 9]>IE9浏览器显示<hr/><![endif]-->
+<!--[if IE 8]>IE8浏览器显示<hr/><![endif]-->
+<!--[if IE 7]>IE7浏览器显示<hr/><![endif]-->
+<!--[if IE 6]>IE6浏览器显示<hr/><![endif]-->
+<!--[if lt IE 10]>IE10以下版本浏览器显示(不包括IE10)<![endif]-->
+<!--[if lte IE 9]>IE9及IE9以下版本浏览器显示(包括IE9)<![endif]-->
+<!--[if gt IE 6]>IE6以上版本浏览器显示(不含IE6)<![endif]-->
+<!--[if gte IE 7]>IE7及IE7以上版本浏览器显示(包含IE7)<![endif]-->
+<!--[if IE 8 ]><html class="ie8"><![endif]-->
+<script >
+  var doc = document.documentElement;
+  doc.setAttribute('data-useragent', navigator.userAgent);
+</script>
+<style>
+  html[data-useragent*='MSIE 10.0'] h1 {
+    color: blue;
+  }
+  html[data-useragent*='Firefox'] h1 {
+    color: red;
+  }
+  html[data-useragent*='Chrome'] h1 {
+    color: yellow;
+  }
+  .CSS_Hack {
+    background: gray; /* standard */
+    background: pink\9; /* IE 8 and below */
+    *background: green; /* IE 7 and below */
+    _background: blue; /* IE 6 */
+  }
+</style>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ie</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
