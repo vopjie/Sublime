@@ -42,3 +42,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Data/Packages/JSHint Gutter/JSHint.sublime-settings
+*.sublime_session
+Data/Packages/User/encoding_cache.json
+Data/Packages/User/Color Highlighter/themes/Monokai (SL) (Colorcoded) (Colorcoded) (Colorcoded).tmTheme
+Data/Cache/User/Color Highlighter/themes/Monokai (SL) (Colorcoded) (Colorcoded) (Colorcoded).tmTheme.cache
